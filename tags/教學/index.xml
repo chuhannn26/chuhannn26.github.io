@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>教學 on My New Blog</title>
-    <link>http://jessica.github.io/tags/%E6%95%99%E5%AD%B8/</link>
+    <link>http://chuhannn26.github.io/tags/%E6%95%99%E5%AD%B8/</link>
     <description>Recent content in 教學 on My New Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 17 May 2023 18:45:41 +0800</lastBuildDate><atom:link href="http://jessica.github.io/tags/%E6%95%99%E5%AD%B8/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 17 May 2023 18:45:41 +0800</lastBuildDate><atom:link href="http://chuhannn26.github.io/tags/%E6%95%99%E5%AD%B8/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>[程式小白自架部落格]</title>
-      <link>http://jessica.github.io/post/%E7%A8%8B%E5%BC%8F%E5%B0%8F%E7%99%BD%E8%87%AA%E6%9E%B6%E9%83%A8%E8%90%BD%E6%A0%BC/</link>
+      <link>http://chuhannn26.github.io/post/%E7%A8%8B%E5%BC%8F%E5%B0%8F%E7%99%BD%E8%87%AA%E6%9E%B6%E9%83%A8%E8%90%BD%E6%A0%BC/</link>
       <pubDate>Wed, 17 May 2023 18:45:41 +0800</pubDate>
       
-      <guid>http://jessica.github.io/post/%E7%A8%8B%E5%BC%8F%E5%B0%8F%E7%99%BD%E8%87%AA%E6%9E%B6%E9%83%A8%E8%90%BD%E6%A0%BC/</guid>
+      <guid>http://chuhannn26.github.io/post/%E7%A8%8B%E5%BC%8F%E5%B0%8F%E7%99%BD%E8%87%AA%E6%9E%B6%E9%83%A8%E8%90%BD%E6%A0%BC/</guid>
       <description>趁期末還沒開始忙時，自己嘗試架立了部落格。
 在Google搜尋「hugo自架部落格教學」，會出現許多文章，但都是mac OS的，Windows系統的教學文很少。
 下載Hugo step 1 到 https://github.com/gohugoio/hugo/releases 下載所需的版本，我是下載windows-amd64.zip結尾的這個檔案。

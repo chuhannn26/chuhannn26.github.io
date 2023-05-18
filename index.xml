@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My New Blog</title>
-    <link>http://jessica.github.io/</link>
+    <link>http://chuhannn26.github.io/</link>
     <description>Recent content on My New Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 17 May 2023 18:45:41 +0800</lastBuildDate>
     
-        <atom:link href="http://jessica.github.io/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://chuhannn26.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     
         <item>
         <title>[程式小白自架部落格]</title>
-        <link>http://jessica.github.io/post/%E7%A8%8B%E5%BC%8F%E5%B0%8F%E7%99%BD%E8%87%AA%E6%9E%B6%E9%83%A8%E8%90%BD%E6%A0%BC/</link>
+        <link>http://chuhannn26.github.io/post/%E7%A8%8B%E5%BC%8F%E5%B0%8F%E7%99%BD%E8%87%AA%E6%9E%B6%E9%83%A8%E8%90%BD%E6%A0%BC/</link>
         <pubDate>Wed, 17 May 2023 18:45:41 +0800</pubDate>
         
-        <guid>http://jessica.github.io/post/%E7%A8%8B%E5%BC%8F%E5%B0%8F%E7%99%BD%E8%87%AA%E6%9E%B6%E9%83%A8%E8%90%BD%E6%A0%BC/</guid>
-        <description>My New Blog http://jessica.github.io/post/%E7%A8%8B%E5%BC%8F%E5%B0%8F%E7%99%BD%E8%87%AA%E6%9E%B6%E9%83%A8%E8%90%BD%E6%A0%BC/ -&lt;p&gt;趁期末還沒開始忙時，自己嘗試架立了部落格。&lt;/p&gt;
+        <guid>http://chuhannn26.github.io/post/%E7%A8%8B%E5%BC%8F%E5%B0%8F%E7%99%BD%E8%87%AA%E6%9E%B6%E9%83%A8%E8%90%BD%E6%A0%BC/</guid>
+        <description>My New Blog http://chuhannn26.github.io/post/%E7%A8%8B%E5%BC%8F%E5%B0%8F%E7%99%BD%E8%87%AA%E6%9E%B6%E9%83%A8%E8%90%BD%E6%A0%BC/ -&lt;p&gt;趁期末還沒開始忙時，自己嘗試架立了部落格。&lt;/p&gt;
 &lt;p&gt;在Google搜尋「hugo自架部落格教學」，會出現許多文章，但都是mac OS的，Windows系統的教學文很少。&lt;/p&gt;
 &lt;h2 id=&#34;下載hugo&#34;&gt;下載Hugo&lt;/h2&gt;
 &lt;p&gt;step 1 到 &lt;a href=&#34;https://github.com/gohugoio/hugo/releases&#34;&gt;https://github.com/gohugoio/hugo/releases&lt;/a&gt; 下載所需的版本，我是下載windows-amd64.zip結尾的這個檔案。&lt;/p&gt;
@@ -38,21 +38,21 @@
 &lt;p&gt;這時再到剛剛hugo資料夾看一下，成功的話，會看到這些資料夾。&lt;/p&gt;
 &lt;h2 id=&#34;找出自己想要的主題&#34;&gt;找出自己想要的主題&lt;/h2&gt;
 &lt;p&gt;step 1 到 &lt;a href=&#34;https://themes.gohugo.io/&#34;&gt;https://themes.gohugo.io/&lt;/a&gt; 下載自己想要的主題
-&lt;img src=&#34;http://jessica.github.io/%E4%B8%BB%E9%A1%8C.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;img src=&#34;http://chuhannn26.github.io/%E4%B8%BB%E9%A1%8C.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;開啟vscode&#34;&gt;開啟VScode&lt;/h2&gt;
 &lt;p&gt;step 1 開啟hugo資料夾內，在&amp;quot;config.toml&amp;quot;檔案
-&lt;img src=&#34;http://jessica.github.io/%E5%8E%9F%E5%A7%8B.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;img src=&#34;http://chuhannn26.github.io/%E5%8E%9F%E5%A7%8B.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;step 2 到theme複製程式碼
-&lt;img src=&#34;http://jessica.github.io/%E8%B3%87%E6%96%99%E5%A4%BE.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;img src=&#34;http://chuhannn26.github.io/%E8%B3%87%E6%96%99%E5%A4%BE.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;step 3 加入&amp;quot;theme = &amp;ldquo;[你選擇的主題名稱(eg. Diary)]&amp;rdquo;&amp;quot;
-&lt;img src=&#34;http://jessica.github.io/%E5%90%8D%E7%A8%B1%E4%B8%BB%E9%A1%8C.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;img src=&#34;http://chuhannn26.github.io/%E5%90%8D%E7%A8%B1%E4%B8%BB%E9%A1%8C.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;回到終端機&#34;&gt;回到終端機&lt;/h2&gt;
 &lt;p&gt;step 1 輸入cd blog
 step 2 輸入hugo server
-&lt;img src=&#34;http://jessica.github.io/%E5%8F%AB%E7%B6%B2%E7%AB%99.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;img src=&#34;http://chuhannn26.github.io/%E5%8F%AB%E7%B6%B2%E7%AB%99.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;step 3 點選localhost的網址查看你的網頁
-&lt;img src=&#34;http://jessica.github.io/%E7%B6%B2%E5%9D%80.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-- http://jessica.github.io/post/%E7%A8%8B%E5%BC%8F%E5%B0%8F%E7%99%BD%E8%87%AA%E6%9E%B6%E9%83%A8%E8%90%BD%E6%A0%BC/ - </description>
+&lt;img src=&#34;http://chuhannn26.github.io/%E7%B6%B2%E5%9D%80.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+- http://chuhannn26.github.io/post/%E7%A8%8B%E5%BC%8F%E5%B0%8F%E7%99%BD%E8%87%AA%E6%9E%B6%E9%83%A8%E8%90%BD%E6%A0%BC/ - </description>
         </item>
     
     
